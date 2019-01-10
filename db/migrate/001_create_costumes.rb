@@ -7,5 +7,6 @@ class CreateCostumes < ActiveRecord::Migration
       t.string :image_url
       t.created_at
       t.updated_at
+    end
   end
 end
